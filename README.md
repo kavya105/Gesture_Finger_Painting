@@ -15,3 +15,11 @@ You can use a virtual environment for this project.
 Run the following commands to install the required libraries:
 
 pip install opencv-python numpy mediapipe
+
+![image](https://github.com/user-attachments/assets/38a08b9f-d0fb-4f01-bae6-aebe967cfb99)
+
+
+![image](https://github.com/user-attachments/assets/d8f30047-95ba-48ed-9211-902976714f63)
+
+![image](https://github.com/user-attachments/assets/b1906da2-f640-4183-a6a2-d98ef2a575a6)
+
